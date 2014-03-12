@@ -1,2 +1,2 @@
-def hello ();
-hello worl
+def hello ():
+print ("hello worl")
